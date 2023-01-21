@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\NDZ\T41\bin\Debug\net6.0\T41.exe
+C:\Users\kuchi\Desktop\NDZ\T41\bin\Debug\net6.0\T41.deps.json
+C:\Users\kuchi\Desktop\NDZ\T41\bin\Debug\net6.0\T41.runtimeconfig.json
+C:\Users\kuchi\Desktop\NDZ\T41\bin\Debug\net6.0\T41.dll
+C:\Users\kuchi\Desktop\NDZ\T41\bin\Debug\net6.0\T41.pdb
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.dll
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\refint\T41.dll
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.pdb
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\T41.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\NDZ\T41\obj\Debug\net6.0\ref\T41.dll
