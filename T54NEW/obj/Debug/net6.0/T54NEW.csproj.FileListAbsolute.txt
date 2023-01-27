@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\NDZ\T54NEW\bin\Debug\net6.0\T54NEW.exe
+C:\Users\kuchi\Desktop\NDZ\T54NEW\bin\Debug\net6.0\T54NEW.deps.json
+C:\Users\kuchi\Desktop\NDZ\T54NEW\bin\Debug\net6.0\T54NEW.runtimeconfig.json
+C:\Users\kuchi\Desktop\NDZ\T54NEW\bin\Debug\net6.0\T54NEW.dll
+C:\Users\kuchi\Desktop\NDZ\T54NEW\bin\Debug\net6.0\T54NEW.pdb
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.dll
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\refint\T54NEW.dll
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.pdb
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\T54NEW.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\NDZ\T54NEW\obj\Debug\net6.0\ref\T54NEW.dll
