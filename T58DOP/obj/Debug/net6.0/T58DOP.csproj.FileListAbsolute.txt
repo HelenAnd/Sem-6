@@ -1,0 +1,15 @@
+C:\Users\kuchi\Desktop\NDZ\T58DOP\bin\Debug\net6.0\T58DOP.exe
+C:\Users\kuchi\Desktop\NDZ\T58DOP\bin\Debug\net6.0\T58DOP.deps.json
+C:\Users\kuchi\Desktop\NDZ\T58DOP\bin\Debug\net6.0\T58DOP.runtimeconfig.json
+C:\Users\kuchi\Desktop\NDZ\T58DOP\bin\Debug\net6.0\T58DOP.dll
+C:\Users\kuchi\Desktop\NDZ\T58DOP\bin\Debug\net6.0\T58DOP.pdb
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.csproj.AssemblyReference.cache
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.AssemblyInfoInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.AssemblyInfo.cs
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.csproj.CoreCompileInputs.cache
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.dll
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\refint\T58DOP.dll
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.pdb
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\T58DOP.genruntimeconfig.cache
+C:\Users\kuchi\Desktop\NDZ\T58DOP\obj\Debug\net6.0\ref\T58DOP.dll
